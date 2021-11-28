@@ -2,15 +2,13 @@
 
 ## 基本情報
 
-氏名: 宮本航平
-
-生年月日:  1998年08月01日 (23歳)
-
-連絡先: koheitechigh@gmail.com
-
-[Facebook](https://www.facebook.com/kohei.miy)
-
-[Instagram](https://www.instagram.com/koheimiyamoto81/)
+- 氏名: 宮本航平
+- 生年月日:  1998年08月01日 (23歳)
+- 連絡先: koheitechigh@gmail.com
+- [GitHub: koheitech(production account)](https://github.com/koheitech)
+- [GitHub: koheimiyamoto81(study account)](https://github.com/koheimiyamoto81)
+- [Facebook](https://www.facebook.com/kohei.miy)
+- [Instagram](https://www.instagram.com/koheimiyamoto81/)
 
 ***
 
