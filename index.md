@@ -1,4 +1,4 @@
 
 ## Basic Info
-![myPic](myPic.jpg]
+![myPic](myPic.jpg)
 kohei miyamoto
