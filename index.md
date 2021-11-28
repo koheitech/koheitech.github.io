@@ -1,31 +1,30 @@
 
 ![myPic](myPic.jpg)
-## About/基本情報
+## 基本情報
 
-Name/氏名: Kohei Miyamoto/宮本航平
+氏名: 宮本航平
 
-Date of birth/生年月日:  1998,Aug,01 (23 years old)/1998年08月1日 (23歳)
+生年月日:  1998年08月01日 (23歳)
 
-Contact/連絡先: koheitechigh@gmail.com
+連絡先: koheitechigh@gmail.com
 
-## Academic Background/学歴
+## 学歴
 
-| Year/Month / 年/月 | Academic Background/学歴 | Description/詳細 |
+| 年/月 | 学歴 | 詳細 |
 | -- | -- | -- |
-| 2014/04 - 2017/03 | Koshigaya High School, Saitama, Japan /<br>埼玉県立越ヶ谷高等学校 |  |
-| 2017/04 - 2019/03 | Dokkyo University, Saitama, Japan(voluntarily withdrawn) /<br>獨協大学(退学) | - English Department/英語学科<br>- Bachelor of Arts<br>- Specialization/専攻: "Intercultural Communication"<br>- GPA: 3.66/4.00|
-| 2017/02 | Oversea Study Award /<br>2017年度英語学科海外学習奨励賞短期研修 | I was selected as a representative of Dokkyo University, and I went to Hong Kong, where I conducted a field survey about business with diversity./獨協大学英語学科の代表10名の一人に選抜され、<br>2017/02/15から2017/03/04までの一週間、<br>「ビジネスハブとしての香港」をテーマに<br>香港でのフィールドワークに参加 |
+| 2014/04 - 2017/03 | 埼玉県立越ヶ谷高等学校 |  |
+| 2017/04 - 2019/03 | 獨協大学(退学) | - 英語学科<br>- Bachelor of Arts<br>- 専攻: "Intercultural Communication"<br>- GPA: 3.66/4.00|
+| 2017/02 | 2017年度英語学科海外学習奨励賞短期研修 | 獨協大学英語学科の代表10名の一人に選抜され、2017/02/15から2017/03/04までの一週間、「ビジネスハブとしての香港」をテーマに香港でのフィールドワークに参加。|
 | 2019/09 - 2021/01 | [Riga Technical University](https://www.rtu.lv/en) /<br>リガ工科大学 | Bachelor of Computer Systems |
-| 2020/06 | [Latvian State Scholarship](https://www.viaa.gov.lv/en/latvian-state-scholarships) /<br>ラトビア政府奨学金  | I received scholarship from Latvian government with my grade in Riga Technical University./リガ工科大学での成績を認められ、<br>ラトビア政府の給付型の奨学金を受給 |
-| 2021/02 - 2021/06 | [University of Nicosia](https://www.unic.ac.cy/) /<br> ニコシア大学 | Exchange study with Erasmus mobility+/エラスムス+による交換留学 |
+| 2020/06 | [Latvian State Scholarship](https://www.viaa.gov.lv/en/latvian-state-scholarships) /<br>ラトビア政府奨学金  | リガ工科大学での成績を認められ、ラトビア政府の給付型の奨学金を受給。 |
+| 2021/02 - 2021/06 | [University of Nicosia](https://www.unic.ac.cy/) /<br> ニコシア大学 | Erasmus Mobility+による交換留学に参加。 |
 
-## Work Experience/職歴
+## 職歴
 
-| Year/Month/年/月 | Work Experience/職歴 | Description/詳細 |
+| 年/月 | 職歴 | 詳細 |
 | -- | -- | -- |
-| 2017/01 - 2018/03 | English teacher at a cram school/英語教師@栄光ゼミナール | -providing a English class to about 20 students <br>-managing and supporting their study such as phone call with their parents<br>/<br>- 中学１年生と３年生の10数名のクラスの集団授業を担当<br>- 保護者との電話対応
-| 2018/03 - 2018/05 | Sales and Trade Admin(Internship)/営業、貿易事務アシスタント@Wow-Food株式会社（インターンシップ） | -translating products description between Japanese and English<br>- sales and marketing<br>- managing import and export of products /<br>
-食品専門商社にて、<br>-商品の翻訳<br>-営業<br>-輸出入の管理<br>を担当
+| 2017/01 - 2018/03 | 英語教師@栄光ゼミナール | - 中学１年生と３年生の10数名のクラスの集団授業を担当<br>- 保護者との電話対応
+| 2018/03 - 2018/05 | 営業、貿易事務アシスタント@Wow-Food株式会社（インターンシップ） | 食品専門商社にて、<br>-商品の翻訳<br>-営業<br>-輸出入の管理<br>を担当。
 | 2018/07 - 2018/08 | マーケティング@Nhat Ngu Samurai Hoi An | 「株式会社旅武者」の運営する「武者修行プログラム」に参加し、ベトナム、ホイアンにて、ベトナム人向けの日本語学校のマーケティングを担当 |
 | 2018/10-2019/08 | 受付@一般財団法人海外産業人材育成協会(AOTS) | AOTSが運営する外国人技能実習生向けの研修、宿泊施設にて、英語、日本語での受付、施設の保安業務を担当 |
 | 2020/02 - 2021/03 |翻訳@株式会社いつも | 業務委託契約にて商品の翻訳を担当 |
