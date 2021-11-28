@@ -8,6 +8,8 @@
 
 連絡先: koheitechigh@gmail.com
 
+***
+
 ## 学歴
 
 | 年/月 | 学歴 | 詳細 |
@@ -19,6 +21,8 @@
 | 2020/06 | [Latvian State Scholarship](https://www.viaa.gov.lv/en/latvian-state-scholarships) /<br>ラトビア政府奨学金  | リガ工科大学での成績を認められ、ラトビア政府の給付型の奨学金を受給 |
 | 2021/02 - 2021/06 | [University of Nicosia](https://www.unic.ac.cy/) /<br> ニコシア大学 | Erasmus Mobility+による交換留学に参加 |
 
+***
+
 ## 職歴
 
 | 年/月 | 職歴 | 詳細 |
@@ -29,14 +33,17 @@
 | 2018/10-2019/08 | 受付@一般財団法人海外産業人材育成協会(AOTS) | AOTSが運営する外国人技能実習生向けの研修、宿泊施設にて、英語、日本語での受付、施設の保安業務を担当 |
 | 2020/02 - 2021/03 |翻訳@株式会社いつも | 業務委託契約にて商品の翻訳を担当 |
 
+***
 
 ## スキル、資格
 
 ### 英語: C1レベル
+
 - TOEIC: 910 (2018/07)
 - IELTS: 7.0 overall (2019/02)
 
 ### programming, ITスキル
+
 | 言語、スキル | 習得レベル |
 | -- | -- |
 | Node.js/Javascript | いくつかのWeb applicationをチュートリアルを参考に制作|
@@ -48,25 +55,30 @@
 | VBA | 大学の授業にて、基本的な文法を学習 |
 | MATLAB | 大学の数学の授業にて使用経験|
 
+***
+
 ## 作品集
 
 - Schedule Arranger
-  チュートリアルを参考に制作
-  [code on GitHub](https://github.com/koheitech/ScheduleArranger)
-  [running on HEROKU](https://my-schedule-arranger.herokuapp.com/)
+  - チュートリアルを参考に制作
+  - [code on GitHub](https://github.com/koheitech/ScheduleArranger)
+  - [running on HEROKU](https://my-schedule-arranger.herokuapp.com/)
 - Secret Board
-  チュートリアルを参考に制作
-  [code on GitHub](https://github.com/koheitech/SecretBoard)
-  [running on HEROKU](https://my-secret-board.herokuapp.com/)
+  - チュートリアルを参考に制作
+  - [code on GitHub](https://github.com/koheitech/SecretBoard)
+  - [running on HEROKU](https://my-secret-board.herokuapp.com/)
 - Story Books
-  チュートリアルを参考に制作
-  [code on GitHub](https://github.com/koheitech/StoryBooks)
+  - チュートリアルを参考に制作
+  - [code on GitHub](https://github.com/koheitech/StoryBooks)
 - Movie Log
-  チュートリアルを参考に制作中、backendをnode.jsで構築。
-  今後、frontendをreact.jsで構築予定。
-  [code on GitHub](https://github.com/koheitech/MovieLog)
+  - チュートリアルを参考に制作中、backendをnode.jsで構築。
+  - 今後、frontendをreact.jsで構築予定。
+  - [code on GitHub](https://github.com/koheitech/MovieLog)
+
+***
 
 ## 大学にて学んでいること
+
 - 数学
   - 微積分学
   - 確率、統計学
@@ -84,7 +96,10 @@
 - アルゴリズム
 - データ構造
 
+***
+
 ## 興味のある分野
+
 - 開発手法、システム設計
 - Web開発
 - モバイル開発
@@ -93,8 +108,10 @@
 - ハードウェア
 - ブロックチェーン
 
+***
 
 ## 趣味
+
 - 日記
 - 旅行
 - アニメ、漫画鑑賞
