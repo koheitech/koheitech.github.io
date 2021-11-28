@@ -51,7 +51,7 @@
 | Node.js/Javascript | いくつかのWeb applicationをチュートリアルを参考に制作|
 | C言語 | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/C-lang)|
 | C++ | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/C%2B%2B)|
-| Java | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習|
+| Java | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/Java)|
 | Python | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/Python)|
 | MySQL | 大学の授業にて、データベースを構築 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/Database-design-mySQL)|
 | VBA | 大学の授業にて、基本的な文法を学習 |
