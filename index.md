@@ -8,6 +8,10 @@
 
 連絡先: koheitechigh@gmail.com
 
+[Facebook](https://www.facebook.com/kohei.miy)
+
+[Instagram](https://www.instagram.com/koheimiyamoto81/)
+
 ***
 
 ## 学歴
@@ -53,7 +57,7 @@
 | Python | 大学の授業にて、基本的な文法、データ構造、アルゴリズムを学習 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/Python)|
 | MySQL | 大学の授業にて、データベースを構築 [(codes on GitHub)](https://github.com/koheitech/my-university-study/tree/main/Database-design-mySQL)|
 | VBA | 大学の授業にて、基本的な文法を学習 |
-| MATLAB | 大学の数学の授業にて使用経験|
+| MATLAB | 大学の数学の授業にて使用経験あり|
 
 ***
 
@@ -71,8 +75,7 @@
   - チュートリアルを参考に制作
   - [code on GitHub](https://github.com/koheitech/StoryBooks)
 - Movie Log
-  - チュートリアルを参考に制作中、backendをnode.jsで構築。
-  - 今後、frontendをreact.jsで構築予定。
+  - チュートリアルを参考に制作中、backendをnode.jsで構築、今後frontendをreact.jsで構築予定
   - [code on GitHub](https://github.com/koheitech/MovieLog)
 
 ***
@@ -116,3 +119,5 @@
 - 旅行
 - アニメ、漫画鑑賞
 - 中田敦彦のYoutube大学鑑賞
+
+** Thank you for watching:)**
